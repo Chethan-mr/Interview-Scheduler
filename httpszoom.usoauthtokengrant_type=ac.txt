@@ -1,0 +1,9 @@
+https://zoom.us/oauth/token?grant_type=account_credentials&account_id=mandar@mentorskool.com
+Account ID
+Wf5Z0BavQ_SG9i7ObFAlnA
+
+Client ID
+3h4hlrHnQyikD4j_LiaVww
+
+Client Secret
+XM6YeG9Aw6nGqAN8lgaGn9V6CIW2Lqzc
